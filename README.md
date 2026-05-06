@@ -1,0 +1,1 @@
+This Project is all about practicing the basics of HTML by creating a simple website that contains recipes.
